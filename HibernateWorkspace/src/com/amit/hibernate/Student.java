@@ -71,4 +71,12 @@ public class Student {
 	public void setDateOfBirth(String dateOfBirth) {
 		this.dateOfBirth = dateOfBirth;
 	}
+
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", department=" + department + ", dateOfBirth=" + dateOfBirth
+				+ "]";
+	}
+	
+	
 }
