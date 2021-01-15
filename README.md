@@ -1,2 +1,2 @@
 # Hibernate
-Here I keep posting my hibernate learning
+This is the test branch for learning purpose
